@@ -22,7 +22,7 @@ Historically dependent on slow, paper-based operations, the cooperative faced ch
 
 ---
 
-## Project Team & Roles
+## Project Team 
 The project was engineered and managed by Section 01 students of the **SECP3723 System Development Technology** course at *Universiti Teknologi Malaysia (UTM)*, under the supervision of Dr. Haza Nuzly bin Abdull Hamed. 
 
 The system was developed modularly, with team members collaboratively applying a full Software Development Life Cycle (SDLC) structure
